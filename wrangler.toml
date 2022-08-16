@@ -1,0 +1,5 @@
+name = "cobol-worker"
+type = "webpack"
+webpack_config = "webpack.config.js"
+compatibility_date = "2022-07-15"
+main = "src/index.js"
